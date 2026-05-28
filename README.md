@@ -29,8 +29,7 @@ detailed specifications, user authentication, and an admin management panel.
 
 ```bash
 git clone https://github.com/stefanpetrovic6/vue-car-shop
-cd car-shop
 npm install
-npm run dev
+npm run serve
 ```
 
